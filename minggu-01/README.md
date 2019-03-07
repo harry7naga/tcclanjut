@@ -65,10 +65,6 @@ Keberadaan editor teks ini akan menentukan keberhasilan instalasi (lihat langkah
 
 ![014](images/install/14.jpg)
 
-15. Tampilan jika akan menggunakan "Git GUI"
+15. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
 
 ![015](images/install/15.jpg)
-
-16. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
-
-![016](images/install/16.jpg)
